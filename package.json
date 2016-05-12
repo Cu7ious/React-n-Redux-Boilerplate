@@ -1,7 +1,7 @@
 {
   "name": "React-n-Redux-Boilerplate",
   "version": "1.0.0",
-  "description": "Minimal React'n'Redux Boilerplate. Webpack, Babel es2015 & JSX support",
+  "description": "Minimal React'n'Redux Boilerplate. Webpack, Babel: es2015 & JSX support",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server"
